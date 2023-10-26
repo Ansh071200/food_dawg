@@ -3,6 +3,7 @@ Directory structure
 backend: Contains Python FastAPI backend code
 db: contains the dump of the database. you need to import this into your MySQL db by using MySQL workbench tool
 dialogflow_assets: this has training phrases etc. for our intents
+you can also create your own intents and paste the webhook link to the index file.
 frontend: website code
 
 Install these modules
